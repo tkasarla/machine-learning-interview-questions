@@ -2,8 +2,8 @@
 
 ## Learning Theory
 
-1. Describe bias and variance with examples. 
-1. What is Empirical Risk Minimization? 
+1. Describe bias and variance with examples. [[explained here]](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4)
+1. What is Empirical Risk Minimization? [[explained]](https://people.cs.umass.edu/~domke/courses/sml2011/03optimization.pdf)
 1. What is Union bound and Hoeffding's inequality? 
 1. Write the formulae for training error and generalization error. Point out the differences.
 1. State the uniform convergence theorem and derive it. 
